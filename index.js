@@ -101,7 +101,7 @@ const plugin = {
   ],
 
   action: {
-    priority: 45,
+    priority: 100,
     resultType: 'string',
 
     match(ctx) {

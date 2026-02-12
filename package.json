@@ -1,6 +1,6 @@
 {
   "name": "tafel-plugin-roman",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Roman numeral converter for Tafel — convert between arabic and roman numerals",
   "type": "module",
   "main": "index.js",
